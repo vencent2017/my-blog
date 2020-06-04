@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-demo",
+  "name": "vencent-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "vencent的个人博客",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",

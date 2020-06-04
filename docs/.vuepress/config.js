@@ -6,7 +6,7 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: '/img09.png' }]
   ],
   serviceWorker: true,
-  host: '192.168.8.167',
+  host: '10.200.31.204',
   port: '9001',
   themeConfig: {
     logo: '/img12.png',  // 左上角logo
